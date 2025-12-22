@@ -13,3 +13,4 @@ publish하고 dxl_nano에서 실제로 바퀴 구동하는 프로그램
 README: https://github.com/GitHub-hanyunji/Lane_Tracer/blob/main/README.md
 
 ### 결과영상 youtube
+결과 영상 나중에 첨부하도록 하겠습니다
